@@ -1,0 +1,14 @@
+---
+  title: "Areas"
+author: "Tu Nombre"
+date: "2023-10-12"
+output: html_document
+---
+  
+  ```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+
+r <- 0.5
+Area <- pi * r^2
