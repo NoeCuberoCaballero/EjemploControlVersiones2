@@ -21,3 +21,12 @@ Area <- pi * r^2
     AreaCuadrado <- Lado^2
     ```
     ```
+    
+## Área Triángulo
+```{r}
+b <- 10; h <- 5
+AreaTriangulo <- (b*h)/2    
+
+
+b <- 10; a <- 5
+AreaRectangulo <- b*a
